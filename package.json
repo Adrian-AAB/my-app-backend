@@ -1,0 +1,13 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "Frontend del programa de hola mundo",
+  "dependencies": {
+    "backend": "git+https://github.com/usuario/backend.git#master"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
