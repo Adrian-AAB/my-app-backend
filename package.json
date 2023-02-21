@@ -6,6 +6,7 @@
     "backend": "https://github.com/Adrian-AAB/my-app-backend.git"
   },
   "scripts": {
+    "test": "mocha test/*.js",
     "start": "node index.js"
   },
   "author": "",
