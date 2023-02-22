@@ -6,13 +6,9 @@
     "backend": "https://github.com/Adrian-AAB/my-app-backend.git"
   },
   "scripts": {
-    "test": "mocha test/*.js",
     "start": "node index.js"
   },
   "author": "",
-  "license": "MIT",
-  "devDependencies": {
-    "mocha": "^10.2.0"
-  }
+  "license": "MIT"
   
 }
